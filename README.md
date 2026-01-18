@@ -1,4 +1,4 @@
-# Customer_behavior_analysis
+# Customer_behavior_analysis Portfolio Project
 Customer behavior analysis project using Python, SQL, and Power BI to uncover purchasing patterns, segment customers, and generate actionable business insights.
 📊 Customer Behavior Analysis – Data Analytics Project
 📌 Overview
